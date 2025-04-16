@@ -1,0 +1,6 @@
+streamlit
+asyncio
+asyncpg
+dotenv
+nest_asyncio
+pandas
